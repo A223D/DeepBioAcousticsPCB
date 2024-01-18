@@ -1,2 +1,2 @@
 # DeepBioAcousticsPCB
-PCB for the Capstone
+PCB for the Capstone Project Deep Bio Acoustics
