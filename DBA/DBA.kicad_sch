@@ -1186,7 +1186,7 @@
     (uuid c81e662e-4d27-4fc0-ab76-275983e79520)
     (property "Reference" "BT1" (id 0) (at 105.918 52.07 90))
     (property "Value" "Battery_Cell" (id 1) (at 105.918 54.61 90))
-    (property "Footprint" "Battery:BatteryHolder_Keystone_1042_1x18650" (id 2) (at 106.426 59.69 90)
+    (property "Footprint" "Battery:Battery_Custom" (id 2) (at 106.426 59.69 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 106.426 59.69 90)
@@ -1296,7 +1296,7 @@
       (reference "A1") (unit 1) (value "TP4056") (footprint "custom:TP4056Board")
     )
     (path "/c81e662e-4d27-4fc0-ab76-275983e79520"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_1042_1x18650")
+      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:Battery_Custom")
     )
     (path "/d441a738-aa4d-42f2-86bb-fdcfdbf0c359"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Radial_D6.3mm_H5.0mm_P2.50mm")
